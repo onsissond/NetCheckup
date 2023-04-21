@@ -1,1 +1,1 @@
-# NetCheckup
+# Ping • Network status
